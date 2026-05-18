@@ -1,4 +1,0 @@
-# data/robots.txt
-User-agent: *
-Disallow: /wp-admin/
-Allow: /
